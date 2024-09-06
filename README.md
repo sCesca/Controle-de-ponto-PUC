@@ -11,3 +11,5 @@
 ● Configurar um alerta para dias da semana e horários que o aplicativo deve notificar o usuário, como um lembrete para registro de ponto;
 
 ● Relatório das horas trabalhadas que poderá ser gerado pelo funcionário
+
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/1c4b9db8-b3a6-4284-862c-704c9004bb5c)
