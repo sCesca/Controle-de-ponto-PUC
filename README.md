@@ -1,7 +1,5 @@
 # Controle-de-ponto-PUC
-O aplicativo 1 para registro de ponto tem como objetivo principal facilitar o registro da
-entrada e saída dos colaboradores da PUC Campinas. Por meio deste aplicativo, os usuários
-poderão registrar seu ponto de forma simples e rápida, utilizando seus dispositivos móveis.
+O aplicativo para registro de ponto tem como objetivo principal facilitar o registro da entrada e saída dos colaboradores da PUC Campinas. Por meio deste aplicativo, os usuários poderão registrar seu ponto de forma simples e rápida, utilizando seus dispositivos móveis.
 Assim, os objetivos específicos para o desenvolvimento do aplicativo 1 são:
 ● Exigir que o funcionário crie o seu calendário semanal de atividades;
 ● Promover um modelo de autenticação do usuário;
